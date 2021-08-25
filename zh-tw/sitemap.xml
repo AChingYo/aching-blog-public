@@ -3,25 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://achingyo.github.io/aching-blog-public/zh-tw/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://achingyo.github.io/aching-blog-public/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://achingyo.github.io/aching-blog-public/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://achingyo.github.io/aching-blog-public/zh-tw/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://achingyo.github.io/aching-blog-public/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
@@ -37,6 +18,25 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://achingyo.github.io/aching-blog-public/zh-tw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://achingyo.github.io/aching-blog-public/zh-tw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://achingyo.github.io/aching-blog-public/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://achingyo.github.io/aching-blog-public/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://achingyo.github.io/aching-blog-public/zh-tw/categories/"
                 />
   </url>
   
