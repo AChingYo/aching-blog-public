@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://achingyo.github.io/aching-blog-public/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-tw"
                 href="https://achingyo.github.io/aching-blog-public/zh-tw/"
                 />
@@ -30,11 +25,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://achingyo.github.io/aching-blog-public/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-tw"
                 href="https://achingyo.github.io/aching-blog-public/zh-tw/categories/"
                 />
@@ -46,11 +36,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://achingyo.github.io/aching-blog-public/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://achingyo.github.io/aching-blog-public/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
